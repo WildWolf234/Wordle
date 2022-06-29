@@ -1,0 +1,10 @@
+E:\Wordle\Worldle\bin\Debug\Worldle.exe.config
+E:\Wordle\Worldle\bin\Debug\Worldle.exe
+E:\Wordle\Worldle\bin\Debug\Worldle.pdb
+E:\Wordle\Worldle\obj\Debug\Worldle.csproj.AssemblyReference.cache
+E:\Wordle\Worldle\obj\Debug\Worldle.Form1.resources
+E:\Wordle\Worldle\obj\Debug\Worldle.Properties.Resources.resources
+E:\Wordle\Worldle\obj\Debug\Worldle.csproj.GenerateResource.cache
+E:\Wordle\Worldle\obj\Debug\Worldle.csproj.CoreCompileInputs.cache
+E:\Wordle\Worldle\obj\Debug\Worldle.exe
+E:\Wordle\Worldle\obj\Debug\Worldle.pdb
